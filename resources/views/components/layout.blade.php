@@ -8,14 +8,28 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&family=Hind+Mysuru:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
     
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     
     <title>WIDE PROJECT</title>
 </head>
 <body>
+    <x-navbar/>
+
+  
+    <div>
+        {{ $slot }}
+    </div>
+
+
+
+    <x-footer/>
     
-    {{ $slot }}
-    
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 </html>

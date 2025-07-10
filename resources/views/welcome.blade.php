@@ -1,6 +1,6 @@
 <x-layout>
-    <header class="container mt-5">
-        <div class="row justify-content-center">
+    <header class="container ">
+        <div class="row vh-100 align-items-center justify-content-center">
             <div class="col-12 col-md-12">
                 
                 

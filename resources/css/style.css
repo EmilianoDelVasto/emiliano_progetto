@@ -1,11 +1,14 @@
-/* :root{
+:root{
   --color-p: #2a50c3;
-  --color-s: rgb(16, 11, 0); 
+  --color-s:#919dbd; 
   --color-a: #e6d3a3; 
   --color-a2: #D8D174; 
   --color-a3: rgb(181, 196, 84); 
-} */
+}
 
+.color-footer{
+   color: var(--color-s);
+}
 
 
 .font-title{
@@ -19,6 +22,13 @@
 
 }
 
+.bg-nav{
+  background-color: #1b218a !important;
+  padding: 30px;
+}
+.navbar .nav-link {
+  color: #919dbd !important;
+}
 
 
 
