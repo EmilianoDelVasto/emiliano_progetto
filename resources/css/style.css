@@ -26,9 +26,26 @@
   background-color: #1b218a !important;
   padding: 30px;
 }
-.navbar .nav-link {
-  color: #919dbd !important;
+
+.bg-section{
+  background-color: #1b218a !important;
 }
+
+
+
+
+.color-text{
+  color: rgb(226, 226, 226);
+}
+
+.font-peso{
+  font-size: 22px;
+}
+
+
+
+
+
 
 
 

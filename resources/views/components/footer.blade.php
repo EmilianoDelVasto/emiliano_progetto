@@ -23,11 +23,11 @@
                     </div>
                     <div class="col-md-6 item text">
                         <h3 class="font-title">WIDE PROJECT</h3>
-                        <p>Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel in justo.</p>
+                        <p>Wide Project è il tuo spazio per il benessere mentale. Trova risorse, articoli e strumenti utili per coltivare equilibrio, consapevolezza e serenità. Ogni contenuto è pensato per supportarti nel tuo percorso di crescita personale e aiutarti a vivere meglio, giorno dopo giorno.</p>
                     </div>
                     <div class="col item social"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
                 </div>
-                <p class="copyright">Company Name © 2018</p>
+                <p class="copyright"><span class="font-title">WIDE PROJECT</span> © 2025</p>
             </div>
         </footer>
     </div>
